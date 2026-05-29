@@ -7,3 +7,5 @@
 
 note = "Jeminispinalszm"
 print(note[0:5])
+print(note[6:7])
+print(note[2:10])
