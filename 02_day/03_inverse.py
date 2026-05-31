@@ -2,7 +2,7 @@
 
 # for i in range(n, 0, -1):
 
-#     print("* " * i)
+# test again    print("* " * i)
 
 n = 10
 for i in range (6):
