@@ -6,3 +6,5 @@ print(text[5])
 
 print(text[-1])  # last character
 print(text[-2])
+
+# "asdfasd asdfasdf asdfa sdfasdf asdfasd fasdfa dsfasdf asfasddfasd fasdf"
