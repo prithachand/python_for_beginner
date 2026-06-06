@@ -1,9 +1,9 @@
-text = "I like Java"
+# text = "I like Java"
 
-new_text = text.replace("Java", "Python")
+# new_text = text.replace("Java", "Python")
 
-print(new_text)
+# print(new_text)
 
-
-# goooood point
-# noice
+line = "I like Mahito"
+new = line.replace("Mahito" , "Yuji")
+print(new)

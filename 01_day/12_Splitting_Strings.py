@@ -4,8 +4,8 @@ fruits = text.split(",")
 
 print(fruits)
 
-word = "papaya,banana,mango,litchi"
+# word = "papaya,banana,mango,litchi"
 
-food = word.split(",")
+# food = word.split(",")
 
-print(food)
+# print(food)
